@@ -1,2 +1,2 @@
 🌐 Live demos:
-- tsiraM: https://<username>.github.io/<repo-name>/
+- [6502 Emulator](https://joannaatmarist.github.io/emulator/)
